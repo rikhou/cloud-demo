@@ -18,13 +18,8 @@ public class OrderController {
     @GetMapping(value = "order/get/{id}")
     public Object getOrder(@PathVariable("id") Integer id) {
         Object obj = restTemplate.getForObject(payment_url + "/payment/get/" + id, Result.class, id);
-        System.out.println(obj);
+//        System.out.println(obj);
         return obj;
     }
 
-    @GetMapping(value = "order/get1/{id}")
-    public String getOrder1(@PathVariable("id") Integer id) {
-
-        return "order";
-    }
 }

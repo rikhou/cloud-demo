@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35631535-d06a-4d50-a936-ab2e7c9f999d" name="Changes" comment="" />
+    <list default="true" id="35631535-d06a-4d50-a936-ab2e7c9f999d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cloud-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order/src/main/java/com/example/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order/src/main/java/com/example/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order/src/main/java/com/example/util/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-common/src/main/java/com/example/util/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order/src/main/java/com/example/util/ReturnCodeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-common/src/main/java/com/example/util/ReturnCodeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order/target/classes/com/example/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order/target/classes/com/example/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order/target/classes/com/example/util/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order/target/classes/com/example/util/ReturnCodeEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment/src/main/java/com/example/controller/PayController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment/src/main/java/com/example/controller/PayController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment/target/classes/com/example/controller/PayController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment/target/classes/com/example/controller/PayController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +32,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
